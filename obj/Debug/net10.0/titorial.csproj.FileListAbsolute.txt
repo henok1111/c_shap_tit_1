@@ -1,0 +1,14 @@
+C:\Users\dps\Desktop\c# titorial\titorial\bin\Debug\net10.0\titorial.exe
+C:\Users\dps\Desktop\c# titorial\titorial\bin\Debug\net10.0\titorial.deps.json
+C:\Users\dps\Desktop\c# titorial\titorial\bin\Debug\net10.0\titorial.runtimeconfig.json
+C:\Users\dps\Desktop\c# titorial\titorial\bin\Debug\net10.0\titorial.dll
+C:\Users\dps\Desktop\c# titorial\titorial\bin\Debug\net10.0\titorial.pdb
+C:\Users\dps\Desktop\c# titorial\titorial\obj\Debug\net10.0\titorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dps\Desktop\c# titorial\titorial\obj\Debug\net10.0\titorial.AssemblyInfoInputs.cache
+C:\Users\dps\Desktop\c# titorial\titorial\obj\Debug\net10.0\titorial.AssemblyInfo.cs
+C:\Users\dps\Desktop\c# titorial\titorial\obj\Debug\net10.0\titorial.csproj.CoreCompileInputs.cache
+C:\Users\dps\Desktop\c# titorial\titorial\obj\Debug\net10.0\titorial.dll
+C:\Users\dps\Desktop\c# titorial\titorial\obj\Debug\net10.0\refint\titorial.dll
+C:\Users\dps\Desktop\c# titorial\titorial\obj\Debug\net10.0\titorial.pdb
+C:\Users\dps\Desktop\c# titorial\titorial\obj\Debug\net10.0\titorial.genruntimeconfig.cache
+C:\Users\dps\Desktop\c# titorial\titorial\obj\Debug\net10.0\ref\titorial.dll
